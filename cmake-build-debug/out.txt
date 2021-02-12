@@ -1,60 +1,30 @@
-Mikołaj
-Chmielewski
-Anastazy
-Kucharski
-Remigiusz
-Brzeziński
-Artur
-Zawadzki
-Olaf
-Wiśniewski
-Franciszek
-Makowski
-Grzegorz
-Sokołowski
-Ludwik
-Makowski
-Radosław
-Górecki
-Borys
-Kamiński
-Kordian
-Szewczyk
-Kajetan
-Sobczak
-Dobromił
-Lewandowski
-Rafał
-Kaźmierczak
-Dobromił
-Jakubowski
-Andrzej
-Adamska
-Błażej
-Pietrzak
-Kewin
-Nowak
-Maciej
-Kowalczyk
-Fabian
-Kubiak
-Martin
-Kalinowski
-Jan
-Górecki
-Kajetan
-Ziółkowska
-Ludwik
-Wójcik
-Eugeniusz
-Brzeziński
-Ksawery
-Kubiak
-Bruno
-Jaworski
-Krzysztof
-Kowalczyk
-Eustachy
-Piotrowski
-Bronisław
-Andrzejewski
+(N'Mikołaj', N'Chmielewski', N'Maczka Stanisława 73A, Kraków', 'management', 1, NULL),
+(N'Anastazy', N'Kucharski', N'Odrodzenia 31A/04, Kraków', 'management', 1, NULL),
+(N'Remigiusz', N'Brzeziński', N'Wrzosowa 61A, Kraków', 'management', 1, NULL),
+(N'Artur', N'Zawadzki', N'Czereśniowa 57/06, Kraków', 'management', 1, NULL),
+(N'Olaf', N'Wiśniewski', N'Fabryczna 82A/22, Kraków', 'media', 1, NULL),
+(N'Franciszek', N'Makowski', N'Kaliska 61/53, Kraków', 'media', 1, NULL),
+(N'Grzegorz', N'Sokołowski', N'Sucha 08A, Kraków', 'media', 1, NULL),
+(N'Ludwik', N'Makowski', N'Żniwna 90A, Kraków', 'media', 1, NULL),
+(N'Radosław', N'Górecki', N'Puszkina Aleksandra 58, Kraków', 'media', 1, NULL),
+(N'Borys', N'Kamiński', N'Botaniczna 48A/19, Kraków', 'clean_service', 1, NULL),
+(N'Kordian', N'Szewczyk', N'Jaracza Stefana 95A, Kraków', 'clean_service', 1, NULL),
+(N'Kajetan', N'Sobczak', N'Lawendowa 53A/04, Kraków', 'clean_service', 1, NULL),
+(N'Dobromił', N'Lewandowski', N'Grodzka 94A, Kraków', 'clean_service', 1, NULL),
+(N'Rafał', N'Kaźmierczak', N'Jasna 52A, Kraków', 'clean_service', 1, NULL),
+(N'Dobromił', N'Jakubowski', N'Dworska 63A, Kraków', 'driver', 1, NULL),
+(N'Andrzej', N'Adamska', N'Królewska 24, Kraków', 'driver', 1, NULL),
+(N'Błażej', N'Pietrzak', N'Podmiejska 68A, Kraków', 'driver', 1, NULL),
+(N'Kewin', N'Nowak', N'Lompy Józefa 90A, Kraków', 'driver', 1, NULL),
+(N'Maciej', N'Kowalczyk', N'11 Listopada 46, Kraków', 'driver', 1, NULL),
+(N'Fabian', N'Kubiak', N'Wieniawskiego Henryka 22/73, Kraków', 'driver', 1, NULL),
+(N'Martin', N'Kalinowski', N'Botaniczna 43A/52, Kraków', 'driver', 1, NULL),
+(N'Jan', N'Górecki', N'Orzechowa 76, Kraków', 'driver', 1, NULL),
+(N'Kajetan', N'Ziółkowska', N'Hetmańska 30A/98, Kraków', 'driver', 1, NULL),
+(N'Ludwik', N'Wójcik', N'Grójecka 23, Kraków', 'driver', 1, NULL),
+(N'Eugeniusz', N'Brzeziński', N'Krótka 93A/04, Kraków', 'driver', 1, NULL),
+(N'Ksawery', N'Kubiak', N'Łączna 43A/63, Kraków', 'driver', 1, NULL),
+(N'Bruno', N'Jaworski', N'Wierzbowa 55, Kraków', 'driver', 1, NULL),
+(N'Krzysztof', N'Kowalczyk', N'Pawia 16A/50, Kraków', 'driver', 1, NULL),
+(N'Eustachy', N'Piotrowski', N'Zwycięstwa 61A, Kraków', 'driver', 1, NULL),
+(N'Bronisław', N'Andrzejewski', N'Okopowa 93A, 70-479 Kraków', 'driver', 1, NULL),
